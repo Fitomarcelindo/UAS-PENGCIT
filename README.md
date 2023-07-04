@@ -1,4 +1,5 @@
 
+
 # Remove Background
 
 from rembg import remove // import libary rembg
@@ -50,7 +51,7 @@ plt.show()
 ## Screenshots
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+!![Image](readme_images/.png)(https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 
@@ -60,3 +61,6 @@ plt.show()
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
+
+## screen shoot
+![Image](UAS-PA-PC-FittoMartcellindo-202131001-Ss-HAsil-sourcecode.png)
